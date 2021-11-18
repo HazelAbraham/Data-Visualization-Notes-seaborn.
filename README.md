@@ -1,3 +1,2 @@
-# Data-Visualization-Notes-seaborn.
-* Few notes on seaborn  collected from the web.
-* Hope it is useful 
+# Data_Visualization
+Visualization of plots using Matplotlib, Seaborn.
